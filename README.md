@@ -21,7 +21,6 @@
 - [Roadmap](#roadmap)
 - [Citation](#citation)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -292,9 +291,6 @@ If you use this code, please cite the paper:
 
 The annotated dataset and the original model were developed within grant BR24992852 of the Science Committee of the Ministry of Science and Higher Education of the Republic of Kazakhstan, under the supervision of Daniyar Rakhimzhanov (Astana IT University). I thank my co-authors for the annotation work.
 
-## License
-
-No license has been chosen yet, so all rights are reserved for now. Please contact the author before reusing the code. The data are not distributed.
 
 ## Contact
 
