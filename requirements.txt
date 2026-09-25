@@ -1,0 +1,12 @@
+torch
+transformers
+seqeval
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+umap-learn
+pot
+# Pin exact versions after a successful run in Colab, e.g.:
+#   pip freeze | grep -E "torch|transformers|seqeval|scikit-learn|scipy|numpy|pandas|matplotlib|umap-learn|POT"
